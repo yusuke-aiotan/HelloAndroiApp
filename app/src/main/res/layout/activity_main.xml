@@ -14,4 +14,10 @@
         android:layout_height="wrap_content"
         android:text="Hello Android"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Git更新練習ついでに文字サイズ変更"
+        android:textSize="40dp"/>
+
 </LinearLayout>
